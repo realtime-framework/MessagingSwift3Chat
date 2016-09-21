@@ -3,7 +3,7 @@ This sample app built using the Swift 3 language uses the Realtime® Framework M
 
 ![ScreenShot](https://framework.realtime.co/blog/img/ios10-push.png)
 
-###This app is compatible with the Android sample. See [https://github.com/realtime-framework/MessagingAndroidChat](https://github.com/realtime-framework/Messaging/tree/master/Android%20with%20Push%20Notifications "https://github.com/realtime-framework/Messaging/tree/master/Android%20with%20Push%20Notifications")
+###This app is compatible with the Android sample. See [https://github.com/realtime-framework/MessagingAndroidChat](https://github.com/realtime-framework/MessagingAndroidChat)
 
 ### Setup project
 
